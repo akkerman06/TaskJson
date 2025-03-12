@@ -1,0 +1,8 @@
+@import "tailwindcss";
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(245, 245, 245);
+}
