@@ -8,3 +8,5 @@
 -cd server <br/>
 -npm i <br/>
 -npm start <br/>
+
+P.S Фото семинаров не загружаются без включения VPN
